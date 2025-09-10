@@ -3,6 +3,6 @@
   "outputDirectory": "dist",
   "framework": "vite",
   "env": {
-    "VITE_BACKEND_URL": "@backend_url"
+    "VITE_BACKEND_URL": "https://imagify-backend-faak.onrender.com/"
   }
 }
